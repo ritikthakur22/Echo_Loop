@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EchoLoop</string>
+    <string name="title_activity_main">EchoLoop</string>
+    <string name="package_name">app.echoloop.daf</string>
+    <string name="custom_url_scheme">app.echoloop.daf</string>
+</resources>
