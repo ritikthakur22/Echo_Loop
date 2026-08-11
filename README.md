@@ -29,7 +29,7 @@
 You can download the latest releases of Echo Loop from our [Releases page](https://github.com/ritikthakur22/Echo_Loop/releases).
 
 - **🤖 Android App:** Download the `.apk` file and install it directly on your Android device.
-- **🌐 Web App:** Try it live [here](#) *(Add your live web URL here)*.
+- **🌐 Web App:** Try it live [here](https://echo-loop-rho.vercel.app/) *(Add your live web URL here)*.
 
 ## 🛠️ Getting Started
 
