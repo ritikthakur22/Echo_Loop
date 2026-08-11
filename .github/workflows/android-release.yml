@@ -48,7 +48,9 @@ jobs:
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          files: EchoLoop-${{ github.ref_name }}.apk
+          files: |
+            EchoLoop-${{ github.ref_name }}.apk
+            LICENSE
           name: Release ${{ github.ref_name }}
           draft: false
           prerelease: false
