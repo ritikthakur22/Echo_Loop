@@ -5,6 +5,7 @@
 **A modern, cross-platform Delayed Auditory Feedback (DAF) application for Web and Android, built with React, Vite, Tailwind CSS, and Capacitor.**
 
 [![Web CI](https://github.com/ritikthakur22/Echo_Loop/actions/workflows/ci.yml/badge.svg)](https://github.com/ritikthakur22/Echo_Loop/actions/workflows/ci.yml)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green?logo=github)](https://ritikthakur22.github.io/Echo_Loop/)
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel)](https://echo-loop-rho.vercel.app/)
 [![GitHub License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18-61dafb.svg?logo=react)](https://reactjs.org/)
@@ -13,7 +14,7 @@
 [![Capacitor](https://img.shields.io/badge/Capacitor-8-119EFF.svg?logo=capacitor)](https://capacitorjs.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC.svg?logo=tailwind-css)](https://tailwindcss.com/)
 
-[Live Demo](https://echo-loop-rho.vercel.app/) · [Download APK](https://github.com/ritikthakur22/Echo_Loop/releases) · [Report Bug](https://github.com/ritikthakur22/Echo_Loop/issues) · [Request Feature](https://github.com/ritikthakur22/Echo_Loop/issues)
+[Live Demo (GitHub Pages)](https://ritikthakur22.github.io/Echo_Loop/) · [Vercel Mirror](https://echo-loop-rho.vercel.app/) · [Download APK](https://github.com/ritikthakur22/Echo_Loop/releases) · [Report Bug](https://github.com/ritikthakur22/Echo_Loop/issues) · [Request Feature](https://github.com/ritikthakur22/Echo_Loop/issues)
 
 </div>
 
@@ -66,7 +67,8 @@ flowchart LR
 
 ## 📦 App Releases & Demo
 
-- **🌐 Live Web App:** [https://echo-loop-rho.vercel.app/](https://echo-loop-rho.vercel.app/)
+- **🌐 Live Web App (GitHub Pages):** [https://ritikthakur22.github.io/Echo_Loop/](https://ritikthakur22.github.io/Echo_Loop/)
+- **⚡ Vercel Deployment:** [https://echo-loop-rho.vercel.app/](https://echo-loop-rho.vercel.app/)
 - **🤖 Android App:** Download the latest signed `.apk` file directly from the [GitHub Releases](https://github.com/ritikthakur22/Echo_Loop/releases) page.
 
 ---
