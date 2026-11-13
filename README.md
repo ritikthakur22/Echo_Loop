@@ -75,7 +75,7 @@ flowchart LR
 
 ### Prerequisites
 
-- **Node.js** (v20 or v22 recommended)
+- **Node.js** (v22 or higher)
 - **npm** (v9 or higher)
 - **Android Studio** (Required only for local Android compilation and debugging)
 
